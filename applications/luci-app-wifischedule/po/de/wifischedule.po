@@ -1,0 +1,101 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "Activate wifi"
+msgstr "Wifi aktivieren"
+
+msgid "Could not find required /usr/bin/wifi_schedule.sh or /sbin/wifi"
+msgstr "Kann /usr/bin/wifi_schedule oder /sbin/wife nicht finden"
+
+msgid "Could not find required programm /usr/bin/iwinfo"
+msgstr "Impossibile trovare il programma /usr/bin/iwinfo"
+
+msgid "Cron Jobs"
+msgstr "Operazioni Programmate"
+
+msgid "Day(s) of Week"
+msgstr "Giorno(i) della Settimana"
+
+msgid "Defines a schedule when to turn on and off wifi."
+msgstr "Definisce un piano di accensione o spegnimento del wifi"
+
+msgid "Determine Modules Automatically"
+msgstr "Determina i Moduli Automaticamente"
+
+msgid "Disable wifi gracefully"
+msgstr "Disabilita wifi con grazia"
+
+msgid "Disabled wifi forced"
+msgstr "Disabilita wifi con forza"
+
+msgid "Enable"
+msgstr "Abilita"
+
+msgid "Enable Wifi Schedule"
+msgstr "Abilita il Piano Wifi"
+
+msgid "Enable logging"
+msgstr "Abilita il registro"
+
+msgid "Force disabling wifi even if stations associated"
+msgstr "Forza disattivazione wifi anche con stazioni associate"
+
+msgid "Friday"
+msgstr "Freitag"
+
+msgid "Global Settings"
+msgstr "Algemeine Einstellungen"
+
+msgid "Monday"
+msgstr "Montag"
+
+msgid "Saturday"
+msgstr "Samstag"
+
+msgid "Schedule"
+msgstr "Zeitplan"
+
+msgid "Schedule events"
+msgstr "Ereignisse"
+
+msgid "Start Time"
+msgstr ""
+
+msgid "Start WiFi"
+msgstr "WLAN einschalten"
+
+msgid "Stop Time"
+msgstr ""
+
+msgid "Stop WiFi"
+msgstr "WLAN ausschalten"
+
+msgid "Sunday"
+msgstr "Sonntag"
+
+msgid "The value %s is invalid"
+msgstr "Der Wert %s is ungültig"
+
+msgid "Thursday"
+msgstr "Donnerstag"
+
+msgid "Tuesday"
+msgstr "Dienstag"
+
+msgid "Unload Modules (experimental; saves more power)"
+msgstr "Module entladen (experimental; mehr Leistungseinsparung)"
+
+msgid "View Cron Jobs"
+msgstr "Zeige Cron Jobs"
+
+msgid "View Logfile"
+msgstr "Zeige Log-Datei"
+
+msgid "Wednesday"
+msgstr "Mittwoch"
+
+msgid "Wifi Schedule"
+msgstr "Wifi Zeitplan"
+
+msgid "Wifi Schedule Logfile"
+msgstr "Wifi Zeitplan Log-Datei"
